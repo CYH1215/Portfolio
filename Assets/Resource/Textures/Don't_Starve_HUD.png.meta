@@ -1,0 +1,1013 @@
+fileFormatVersion: 2
+guid: 5311d515d5cae4a46a0efd3ef7bc9e75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1074838427634073373
+    second: Craft_UI_CraftItem
+  - first:
+      213: 1996515899614111754
+    second: Ctaft_Menu_CanCraft
+  - first:
+      213: -8892076209789729135
+    second: NeedMaterialtoUnlock
+  - first:
+      213: -1418600442677241647
+    second: UnlockCraft
+  - first:
+      213: 9044562658087890370
+    second: LockedCraft
+  - first:
+      213: 1325801492768035031
+    second: Tools
+  - first:
+      213: 2066804388574393857
+    second: Don't_Starve_HUD_12
+  - first:
+      213: -2826498331944164127
+    second: Food
+  - first:
+      213: 2998429978614032486
+    second: Science
+  - first:
+      213: 7908347646812136221
+    second: Fight
+  - first:
+      213: 1955363556954731637
+    second: Don't_Starve_HUD_16
+  - first:
+      213: 8246722591774318624
+    second: Don't_Starve_HUD_9
+  - first:
+      213: -1058639029062980946
+    second: Dress
+  - first:
+      213: 1720982396998964774
+    second: Light
+  - first:
+      213: 7257656083228482633
+    second: Survival
+  - first:
+      213: -7768501306864657388
+    second: Material
+  - first:
+      213: 6644746701892555758
+    second: Craft_BG
+  - first:
+      213: -7090059309342652637
+    second: Inventory_EmptyGroup
+  - first:
+      213: 2269790441548358002
+    second: Structures
+  - first:
+      213: 8091355720060565908
+    second: Map_Icon
+  - first:
+      213: 1419552559317340085
+    second: Pause
+  - first:
+      213: 49786476671771804
+    second: Craft_MenuBG
+  - first:
+      213: 5993311087829645416
+    second: Craft_ChoiceMenu
+  - first:
+      213: 7071595693210497710
+    second: Item_List
+  - first:
+      213: 5888785279925536173
+    second: Choice_Scroll
+  - first:
+      213: -3718362233845487915
+    second: Can't_Scroll
+  - first:
+      213: 2630891265712861696
+    second: Can_Scroll
+  - first:
+      213: -6334435818426270952
+    second: Map_BG
+  - first:
+      213: -4660712904429651139
+    second: Hand
+  - first:
+      213: -48466361936139652
+    second: Armor
+  - first:
+      213: -1538278890496168863
+    second: Hat
+  - first:
+      213: -3095014908473153863
+    second: Invectory_Empty
+  - first:
+      213: -1258215805950761714
+    second: Day_Base
+  - first:
+      213: 2263909201791445336
+    second: Day_Base2
+  - first:
+      213: 6698147404998472438
+    second: Day_1.5Hour
+  - first:
+      213: 7965384239059254267
+    second: Craft_UI_Rope1
+  - first:
+      213: 7605876192979344934
+    second: Craft_UI_Rope2
+  - first:
+      213: 6222324856614040823
+    second: Don't_Starve_HUD_37
+  - first:
+      213: 4579171845806004143
+    second: Day_Time_Needle
+  - first:
+      213: 5267543360435799222
+    second: Craft_UI_NeedItem
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Craft_UI_CraftItem
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1628
+        width: 365
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e08ee115286511f0800000000000000
+      internalID: -1074838427634073373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeedMaterialtoUnlock
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1176
+        width: 99
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19608c7accff89480800000000000000
+      internalID: -8892076209789729135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnlockCraft
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1112
+        width: 99
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8d208d96e105ce0800000000000000
+      internalID: -1418600442677241647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LockedCraft
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1048
+        width: 99
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd671041ddb48d70800000000000000
+      internalID: 9044562658087890370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tools
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 995
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d01f1bee61366210800000000000000
+      internalID: 1325801492768035031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Don't_Starve_HUD_12
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1109
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106f13914a3ceac10800000000000000
+      internalID: 2066804388574393857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1215
+        width: 85
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4eb361eb246c8d0800000000000000
+      internalID: -2826498331944164127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 1081
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668eb2fdd209c9920800000000000000
+      internalID: 2998429978614032486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1215
+        width: 95
+        height: 95
+      alignment: 9
+      pivot: {x: 0.50483656, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13a888d84810cd60800000000000000
+      internalID: 7908347646812136221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dress
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1219
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa26577965fe41f0800000000000000
+      internalID: -1058639029062980946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1083
+        width: 63
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626d2d53f5822e710800000000000000
+      internalID: 1720982396998964774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Survival
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 951
+        width: 64
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c59c641cf58b460800000000000000
+      internalID: 7257656083228482633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1096
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c9c2f783db03490800000000000000
+      internalID: -7768501306864657388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craft_BG
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 816
+        width: 148
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee311c48be1e63c50800000000000000
+      internalID: 6644746701892555758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Icon
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499f88558254a4070800000000000000
+      internalID: 8091355720060565908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1349
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf4b16188343b310800000000000000
+      internalID: 1419552559317340085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craft_MenuBG
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1073
+        width: 129
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94a3a86980e0b000800000000000000
+      internalID: 49786476671771804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craft_ChoiceMenu
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1072
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868fe723ea48c2350800000000000000
+      internalID: 5993311087829645416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_List
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1240
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea27ef8e0da532260800000000000000
+      internalID: 7071595693210497710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choice_Scroll
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1456
+        width: 128
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5c280130b29b150800000000000000
+      internalID: 5888785279925536173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can't_Scroll
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1456
+        width: 128
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d66961cf39b56cc0800000000000000
+      internalID: -3718362233845487915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_Scroll
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1488
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0023e77caadc28420800000000000000
+      internalID: 2630891265712861696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_BG
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1328
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bf0363f209718a0800000000000000
+      internalID: -6334435818426270952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1005
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b34639e42d15fb0800000000000000
+      internalID: -4660712904429651139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1005
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7aad31c910d35ff0800000000000000
+      internalID: -48466361936139652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1005
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c6e7ecf7fe6aae0800000000000000
+      internalID: -1538278890496168863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invectory_Empty
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1005
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b66bedb65c4c05d0800000000000000
+      internalID: -3095014908473153863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_Base
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1377
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05e58b046be98ee0800000000000000
+      internalID: -1258215805950761714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_Base2
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1489
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8596480ac650b6f10800000000000000
+      internalID: 2263909201791445336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_1.5Hour
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 966
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f27328939994fc50800000000000000
+      internalID: 6698147404998472438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craft_UI_Rope1
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 1988
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb3f9453caba8e60800000000000000
+      internalID: 7965384239059254267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craft_UI_Rope2
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 1961
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e522099108d8960800000000000000
+      internalID: 7605876192979344934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_Time_Needle
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1001
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa79cb2488c7c8f30800000000000000
+      internalID: 4579171845806004143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craft_UI_NeedItem
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1004
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b44eb517c21a1940800000000000000
+      internalID: 5267543360435799222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventory_EmptyGroup
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 826
+        width: 382
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3270e267f9c0b9d90800000000000000
+      internalID: -7090059309342652637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ctaft_Menu_CanCraft
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a082be8f1ac05bb10800000000000000
+      internalID: 1996515899614111754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Structures
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1213
+        width: 76
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2712117716aef7f10800000000000000
+      internalID: 2269790441548358002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
