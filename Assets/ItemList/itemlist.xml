@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemTable>
+  <RESOURCEITEM Name="Log" Sprite="" />
+  <CONSUMABLEITEM Name="Berry" Sprite="" HP="0" Hungry="9.375" Sanity="0" Perish="6" />
+</ItemTable>
