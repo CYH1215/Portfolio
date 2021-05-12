@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ItemTable>
   <RESOURCEITEM Name="Log" Sprite="" />
+  <RESOURCEITEM Name="Rocks" Sprite="" />
+  <RESOURCEITEM Name="Flint" Sprite="" />
+  <RESOURCEITEM Name="GoldNugget" Sprite="" />
   <CONSUMABLEITEM Name="Berry" Sprite="" HP="0" Hungry="9.375" Sanity="0" Perish="6" />
 </ItemTable>

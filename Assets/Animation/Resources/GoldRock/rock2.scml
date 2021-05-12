@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b5">
+	<folder id="0" name="rock01">
+		<file id="0" name="rock01/rock01-0.png" width="520" height="556" pivot_x="0.488413" pivot_y="0.127429" />
+		<file id="1" name="rock01/rock01-1.png" width="580" height="400" pivot_x="0.528792" pivot_y="0.202564" />
+		<file id="2" name="rock01/rock01-2.png" width="520" height="204" pivot_x="0.530336" pivot_y="0.258826" />
+	</folder>
+	<entity id="0" name="rock2">
+		<animation id="0" name="anim" length="67">
+			<mainline>
+				<key id="0" time="0">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.488413" abs_pivot_y="0.127429" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="5" />
+				</key>
+				<key id="1" time="34">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.488413" abs_pivot_y="0.127429" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="1" z_index="5" />
+				</key>
+				<key id="2" time="67">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.488413" abs_pivot_y="0.127429" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="2" z_index="5" />
+				</key>
+			</mainline>
+			<timeline id="0" name="rock01">
+				<key id="0" time="0" spin="1">
+					<object folder="0" file="0" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+				<key id="1" time="34" spin="1">
+					<object folder="0" file="0" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+				<key id="2" time="67" spin="1">
+					<object folder="0" file="0" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+			</timeline>
+		</animation>
+		<animation id="1" name="full" length="200">
+			<mainline>
+				<key id="0" time="0">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.488413" abs_pivot_y="0.127429" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="5" />
+				</key>
+				<key id="1" time="34">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.488413" abs_pivot_y="0.127429" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="1" z_index="5" />
+				</key>
+				<key id="2" time="67">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.488413" abs_pivot_y="0.127429" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="2" z_index="5" />
+				</key>
+				<key id="3" time="100">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.488413" abs_pivot_y="0.127429" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="3" z_index="5" />
+				</key>
+				<key id="4" time="134">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.488413" abs_pivot_y="0.127429" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="4" z_index="5" />
+				</key>
+				<key id="5" time="167">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.488413" abs_pivot_y="0.127429" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="5" z_index="5" />
+				</key>
+				<key id="6" time="200">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.488413" abs_pivot_y="0.127429" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="6" z_index="5" />
+				</key>
+			</mainline>
+			<timeline id="0" name="rock01">
+				<key id="0" time="0" spin="1">
+					<object folder="0" file="0" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+				<key id="1" time="34" spin="1">
+					<object folder="0" file="0" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+				<key id="2" time="67" spin="1">
+					<object folder="0" file="0" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+				<key id="3" time="100" spin="1">
+					<object folder="0" file="0" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+				<key id="4" time="134" spin="1">
+					<object folder="0" file="0" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+				<key id="5" time="167" spin="1">
+					<object folder="0" file="0" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+				<key id="6" time="200" spin="1">
+					<object folder="0" file="0" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+			</timeline>
+		</animation>
+		<animation id="2" name="low" length="200">
+			<mainline>
+				<key id="0" time="0">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.530336" abs_pivot_y="0.258826" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="3" />
+				</key>
+				<key id="1" time="34">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.530336" abs_pivot_y="0.258826" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="1" z_index="3" />
+				</key>
+				<key id="2" time="67">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.530336" abs_pivot_y="0.258826" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="2" z_index="3" />
+				</key>
+				<key id="3" time="100">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.530336" abs_pivot_y="0.258826" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="3" z_index="3" />
+				</key>
+				<key id="4" time="134">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.530336" abs_pivot_y="0.258826" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="4" z_index="3" />
+				</key>
+				<key id="5" time="167">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.530336" abs_pivot_y="0.258826" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="5" z_index="3" />
+				</key>
+				<key id="6" time="200">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.530336" abs_pivot_y="0.258826" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="6" z_index="3" />
+				</key>
+			</mainline>
+			<timeline id="0" name="rock01">
+				<key id="0" time="0" spin="1">
+					<object folder="0" file="2" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+				<key id="1" time="34" spin="1">
+					<object folder="0" file="2" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+				<key id="2" time="67" spin="1">
+					<object folder="0" file="2" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+				<key id="3" time="100" spin="1">
+					<object folder="0" file="2" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+				<key id="4" time="134" spin="1">
+					<object folder="0" file="2" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+				<key id="5" time="167" spin="1">
+					<object folder="0" file="2" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+				<key id="6" time="200" spin="1">
+					<object folder="0" file="2" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+			</timeline>
+		</animation>
+		<animation id="3" name="med" length="200">
+			<mainline>
+				<key id="0" time="0">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.528792" abs_pivot_y="0.202564" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="5" />
+				</key>
+				<key id="1" time="34">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.528792" abs_pivot_y="0.202564" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="1" z_index="5" />
+				</key>
+				<key id="2" time="67">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.528792" abs_pivot_y="0.202564" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="2" z_index="5" />
+				</key>
+				<key id="3" time="100">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.528792" abs_pivot_y="0.202564" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="3" z_index="5" />
+				</key>
+				<key id="4" time="134">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.528792" abs_pivot_y="0.202564" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="4" z_index="5" />
+				</key>
+				<key id="5" time="167">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.528792" abs_pivot_y="0.202564" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="5" z_index="5" />
+				</key>
+				<key id="6" time="200">
+					<object_ref id="0" name="rock01" abs_x="0" abs_y="0" abs_pivot_x="0.528792" abs_pivot_y="0.202564" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="6" z_index="5" />
+				</key>
+			</mainline>
+			<timeline id="0" name="rock01">
+				<key id="0" time="0" spin="1">
+					<object folder="0" file="1" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+				<key id="1" time="34" spin="1">
+					<object folder="0" file="1" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+				<key id="2" time="67" spin="1">
+					<object folder="0" file="1" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+				<key id="3" time="100" spin="1">
+					<object folder="0" file="1" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+				<key id="4" time="134" spin="1">
+					<object folder="0" file="1" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+				<key id="5" time="167" spin="1">
+					<object folder="0" file="1" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+				<key id="6" time="200" spin="1">
+					<object folder="0" file="1" x="1.5" y="-26.3" scale_x="1" scale_y="1" angle="0" />
+				</key>
+			</timeline>
+		</animation>
+	</entity>
+</spriter_data>
